@@ -6,6 +6,9 @@
         {
             "name": "Jakub Onderka",
             "email": "jakub.onderka@gmail.com"
+        }, {
+            "name": "Jasper Eumann",
+            "email": "jasper.eumann@etes.de"
         }
     ],
     "autoload": {
@@ -13,6 +16,9 @@
     },
     "require": {
         "php": ">=5.3.3"
+    },
+    "replace": {
+        "jakub-onderka/php-var-dump-check": "*"
     },
     "suggest": {
         "jakub-onderka/php-console-highlighter": "For colored console output"
