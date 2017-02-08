@@ -14,7 +14,7 @@ Just create a `composer.json` file and run the `php composer.phar install` comma
 ```json
 {
     "require-dev": {
-        "jakub-onderka/php-var-dump-check": "~0.2"
+        "systemhaus/php-var-dump-check": "~0.2"
     }
 }
 ```
